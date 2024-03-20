@@ -158,7 +158,7 @@ const Footer = () => {
                 <h5>Privacy Policy</h5>
                 <h6 className='text-zinc-300'>All Rights Reserved. &#169; Copyright 2023. QuillAudits - LLC</h6>
             </div>
-            <div className='hidden lg:block lg:absolute lg:bottom-96 lg:right-32 min-[1450px]:bottom-52'>
+            <div className='hidden lg:block lg:relative  lg:bottom-72 lg:left-[30vw] w-[50vw] min-[1450px]:bottom-72'>
                 <div className='pr-4 text-white w-36 heading'>
                     <h1>Our Programmes</h1>
                     <div className='mt-1 border-b-2 border-blue-500 line'></div>
