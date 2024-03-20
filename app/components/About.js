@@ -57,7 +57,7 @@ const About = () => {
           <h3>1000+ Audit stories</h3>
         </div>
         </div>
-        <button className='h-12 mb-5 text-sm text-white bg-blue-500 rounded-md cursor-pointer w-52 from-blue-700 bg-gradient-to-r'>
+        <button className='h-12 mb-5 text-sm text-white transition-all duration-300 bg-blue-500 rounded-md cursor-pointer w-52 from-blue-700 bg-gradient-to-r hover:bg-blue-600'>
           Request an Audit
         </button>
       </div>

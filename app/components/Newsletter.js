@@ -13,7 +13,7 @@ const Newsletter = () => {
                     DeFi & NFT Hacks, CTFs, and Blockchain Security Insights straight to your Inbox. Explore our weekly newsletter: <b className='text-blue-500'>HashingBits</b>. Stay updated on everything we’re publishing. Stand a step ahead.
                 </p>
                 <input className='block w-64 h-8 px-2 py-5 mx-16 mb-4 text-xs border-2 outline-none border-zinc-900' type='text' placeholder='vitalik@ethereum.org'></input>
-                <button className='h-8 mb-24 text-sm text-white rounded-md cursor-pointer w-28 bg-gradient-to-r to-blue-400 from-blue-700'>Subscribe</button>
+                <button className='h-8 mb-24 text-sm text-white rounded-md cursor-pointer w-28 bg-gradient-to-r to-blue-400 from-blue-700 hover:bg-blue-600'>Subscribe</button>
             </div>
 
             <div className='hidden px-48 lg:flex'>
