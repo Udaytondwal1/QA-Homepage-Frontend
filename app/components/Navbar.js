@@ -10,7 +10,7 @@ const Navbar = () => {
     return (
         <>
             <HamburgerMenu open={isOpen} />
-            <nav className='fixed z-20 w-full h-16 px-8 pt-1 overflow-hidden text-white bg-[url("https://s3-alpha-sig.figma.com/img/466f/9794/3c256938ff139b5b4f3543862c66c66a?Expires=1711929600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=oCfvz5PL96mQdkYkcYq4j1fkk~rrScX9E00l9TBU254Bm5~GLpsa2Vbs0r4lbsH207C30owVOIPLQj2A0gt8tgsbtcE~~A0xCzOQTioUL2pXp4Mq52~5e8WjDOVb-~xSW~yDVx~7ndQ4Klt8BSdxL5oo7Q1OZbIir3BiILiUlT6QNYr2LtZmgFxWaHDGkpUwRjCXH8d9vNPJYwAwFDBw8cpC8jII14msIBNrkzhJLg-C4cxNh0Lm4zeACJKB4Hu5VMUxoX~gn1ZlARdijhFPqjaqiQURjV3PHASNP5npICxeH9fOsT9hekX3H1iQ~FynRC6b3uI7FvTFp4v6GvjnUw__")] pb-14 font-jost lg:bg-inherit lg:px-32 lg:absolute'>
+            <nav className='fixed z-20 w-full h-16 px-8 pt-1 overflow-hidden text-white bg-[url("https://s3-alpha-sig.figma.com/img/466f/9794/3c256938ff139b5b4f3543862c66c66a?Expires=1711929600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=oCfvz5PL96mQdkYkcYq4j1fkk~rrScX9E00l9TBU254Bm5~GLpsa2Vbs0r4lbsH207C30owVOIPLQj2A0gt8tgsbtcE~~A0xCzOQTioUL2pXp4Mq52~5e8WjDOVb-~xSW~yDVx~7ndQ4Klt8BSdxL5oo7Q1OZbIir3BiILiUlT6QNYr2LtZmgFxWaHDGkpUwRjCXH8d9vNPJYwAwFDBw8cpC8jII14msIBNrkzhJLg-C4cxNh0Lm4zeACJKB4Hu5VMUxoX~gn1ZlARdijhFPqjaqiQURjV3PHASNP5npICxeH9fOsT9hekX3H1iQ~FynRC6b3uI7FvTFp4v6GvjnUw__")] bg-cover bg-no-repeat pb-14 font-jost lg:bg-inherit lg:px-32 lg:absolute'>
                 <div className='container flex items-center justify-between'>
                     <div className='font-bold logo lg:flex lg:gap-5'>
                         <img className='scale-150 w-7' src='https://www.quillaudits.com/logo/QuillAudit-Icon.svg'></img>

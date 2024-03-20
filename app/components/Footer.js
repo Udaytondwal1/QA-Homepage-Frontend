@@ -22,13 +22,13 @@ const Footer = () => {
             </div>
             <div className='container grid grid-cols-2 gap-3 my-10 lg:hidden gap-y-4'>
 
-                <button className='w-40 h-8 text-sm text-white transition-all duration-300 rounded-sm cursor-pointer bg-gradient-to-r to-blue-400 from-blue-700 hover:bg-blue-600'>WAGSI Grants</button>
+                <button className='w-40 h-8 text-sm text-white transition-all duration-300 rounded-sm cursor-pointer bg-gradient-to-r to-blue-400 from-blue-700 hover:bg-blue-500'>WAGSI Grants</button>
 
-                <button className='w-40 h-8 text-xs text-white transition-all duration-300 rounded-sm cursor-pointer bg-gradient-to-r to-blue-400 from-blue-700 hover:bg-blue-600'>AMbassador Program</button>
+                <button className='w-40 h-8 text-xs text-white transition-all duration-300 rounded-sm cursor-pointer bg-gradient-to-r to-blue-400 from-blue-700 hover:bg-blue-500'>AMbassador Program</button>
 
-                <button className='w-40 h-8 text-xs text-white transition-all duration-300 rounded-sm cursor-pointer bg-gradient-to-r to-blue-400 from-blue-700 hover:bg-blue-600'>Refer-Earn-Secure</button>
+                <button className='w-40 h-8 text-xs text-white transition-all duration-300 rounded-sm cursor-pointer bg-gradient-to-r to-blue-400 from-blue-700 hover:bg-blue-500'>Refer-Earn-Secure</button>
 
-                <button className='w-40 h-8 text-xs text-white transition-all duration-300 rounded-sm cursor-pointer bg-gradient-to-r to-blue-400 from-blue-700 hover:bg-blue-600'>Partnership Program</button>
+                <button className='w-40 h-8 text-xs text-white transition-all duration-300 rounded-sm cursor-pointer bg-gradient-to-r to-blue-400 from-blue-700 hover:bg-blue-500'>Partnership Program</button>
             </div>
 
             <div className='container grid h-auto grid-cols-2 text-white gap-x-4 gap-y-16 lg:flex lg:gap-24'>
@@ -164,13 +164,13 @@ const Footer = () => {
                     <div className='mt-1 border-b-2 border-blue-500 line'></div>
                 </div>
                 <div className='container hidden gap-3 my-10 lg:flex gap-y-4 lg:my-4'>
-                    <button className='w-40 h-8 text-sm text-white transition-all duration-300 rounded-sm cursor-pointer bg-gradient-to-r to-blue-400 from-blue-700 hover:bg-blue-600'>WAGSI Grants</button>
+                    <button className='w-40 h-8 text-sm text-white transition-all duration-300 rounded-sm cursor-pointer bg-gradient-to-r to-blue-400 from-blue-700 hover:bg-blue-500'>WAGSI Grants</button>
 
-                    <button className='w-40 h-8 text-xs text-white transition-all duration-300 rounded-sm cursor-pointer bg-gradient-to-r to-blue-400 from-blue-700 hover:bg-blue-600'>AMbassador Program</button>
+                    <button className='w-40 h-8 text-xs text-white transition-all duration-300 rounded-sm cursor-pointer bg-gradient-to-r to-blue-400 from-blue-700 hover:bg-blue-500'>AMbassador Program</button>
 
-                    <button className='w-40 h-8 text-xs text-white transition-all duration-300 rounded-sm cursor-pointer bg-gradient-to-r to-blue-400 from-blue-700 hover:bg-blue-600'>Refer-Earn-Secure</button>
+                    <button className='w-40 h-8 text-xs text-white transition-all duration-300 rounded-sm cursor-pointer bg-gradient-to-r to-blue-400 from-blue-700 hover:bg-blue-500'>Refer-Earn-Secure</button>
 
-                    <button className='w-40 h-8 text-xs text-white transition-all duration-300 rounded-sm cursor-pointer bg-gradient-to-r to-blue-400 from-blue-700 hover:bg-blue-600'>Partnership Program</button>
+                    <button className='w-40 h-8 text-xs text-white transition-all duration-300 rounded-sm cursor-pointer bg-gradient-to-r to-blue-400 from-blue-700 hover:bg-blue-500'>Partnership Program</button>
                 </div>
             </div>
         </footer>
